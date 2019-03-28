@@ -1,0 +1,10 @@
+https://training-lms.redhat.com/lmt/clmsCatalogDetails.prMain?site=redhat&in_region=us&in_offeringId=39791954&in_language_identifier=en&in_filter=%26in_courseName%3DEX200*%26in_rows%3D50%26in_courseType%3DK%26in_orderBy%3DXD%26in_region%3Dus%26in_start%3D
+
+https://www.google.com/search?q=rhcsa+example&rlz=1C1GGRV_enUS751US751&oq=rhcsa+example&aqs=chrome..69i57j0l5.15920j0j7&sourceid=chrome&ie=UTF-8
+
+https://www.youtube.com/watch?v=-4lUOI5OY8k
+
+https://www.certdepot.net/rhel7-rhcsa-sample-exam-1/
+
+https://github.com/texastwister/OpenRHCE/blob/master/RHCE_Practice_Exam_01.rst.txt
+
